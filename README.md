@@ -71,3 +71,4 @@ Place your screenshots inside the `/assets` folder:
 🐙 **GitHub:** https://github.com/Rahul-9307  
 💼 **LinkedIn:** https://www.linkedin.com/in/rahulpatil   <!-- apna actual link daal sakte ho -->
 
+<p align="center"> ⭐ If you like this repository, consider giving it a star! </p> 
