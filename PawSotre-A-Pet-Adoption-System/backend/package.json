@@ -1,14 +1,16 @@
 {
-  "name": "petstore-backend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "PetStore MERN Backend",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "private": true,
+
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
+
+  "scripts": {
+    "start": "node index.js"
+  },
+
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
